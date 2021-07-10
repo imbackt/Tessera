@@ -1,0 +1,113 @@
+
+UI.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Banner
+  rotate: false
+  xy: 514, 964
+  size: 492, 58
+  orig: 492, 58
+  offset: 0, 0
+  index: -1
+Block
+  rotate: false
+  xy: 617, 619
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+BlockGhost
+  rotate: false
+  xy: 514, 516
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Btn
+  rotate: false
+  xy: 514, 552
+  size: 99, 99
+  split: 15, 18, 18, 19
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+BtnArrow
+  rotate: false
+  xy: 720, 758
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+BtnArrowPressed
+  rotate: false
+  xy: 720, 861
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+BtnDark
+  rotate: false
+  xy: 823, 863
+  size: 97, 97
+  split: 17, 18, 18, 13
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+BtnMusicOff
+  rotate: false
+  xy: 617, 758
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+BtnMusicOn
+  rotate: false
+  xy: 514, 861
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+BtnRotateLeft
+  rotate: false
+  xy: 514, 758
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+BtnRotateLeftPressed
+  rotate: false
+  xy: 617, 861
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+BtnRotateRight
+  rotate: false
+  xy: 514, 655
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+BtnRotateRightPressed
+  rotate: false
+  xy: 617, 655
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Gutter
+  rotate: false
+  xy: 2, 2
+  size: 508, 508
+  orig: 508, 508
+  offset: 0, 0
+  index: -1
+GutterDark
+  rotate: false
+  xy: 2, 514
+  size: 508, 508
+  orig: 508, 508
+  offset: 0, 0
+  index: -1
